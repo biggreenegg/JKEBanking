@@ -11,3 +11,5 @@ attempt to link to WI in RTC
 attempt 2 to link to WI defect 37 in RTC.
 
 configured Rational Team Concert via GitHub (settings > webhooks and services > configure services)
+
+recieved a warning last time. toggled on no verify ssl and active option in configuring service. it did notice "defect 37" in commit message.
