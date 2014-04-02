@@ -9,3 +9,5 @@ attempt to link to WI in RTC
 >>>>>>> branch 'master' of https://github.com/biggreenegg/JKEBanking.git
 
 attempt 2 to link to WI defect 37 in RTC.
+
+configured Rational Team Concert via GitHub (settings > webhooks and services > configure services)
