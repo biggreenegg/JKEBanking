@@ -24,5 +24,9 @@ unchecking no verify ssl - permission denied
 
 basic auth checked, no verify unchecked. also testing a different link (task 90). found that only one link can be added in commit message... - permission denied
 
-reviewed config steps and noticed a potential error - project uuid did not have "_" at start. trying now with the "_" - 
+reviewed config steps and noticed a potential error - project uuid did not have "_" at start. trying now with the "_" - permission denied
+
+FINALLY FOUND THE F'ING ISSUE. it looks for the uuid in two places: 1) hub.jazz.net and 2) localhost
+the permission denied was only related to hub.jazz.net (because no project uuid exists). the localhost link is available.
+can now work on adding this as a potential demo in module 4...
 
