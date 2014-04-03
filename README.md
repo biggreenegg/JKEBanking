@@ -18,4 +18,6 @@ same warning, but now "test hook" works on github project settings. attempting a
 
 uncheck basic auth, check no verify ssl, check active - permission denied
 
-changing deb/deb in github to clm/passw0rd - 
+changing deb/deb in github to clm/passw0rd - permissiondenied
+
+unchecking no verify ssl
