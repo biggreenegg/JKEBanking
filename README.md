@@ -16,4 +16,6 @@ recieved a warning last time. toggled on no verify ssl and active option in conf
 
 same warning, but now "test hook" works on github project settings. attempting again.
 
-uncheck basic auth, check no verify ssl, check active
+uncheck basic auth, check no verify ssl, check active - permission denied
+
+changing deb/deb in github to clm/passw0rd - 
