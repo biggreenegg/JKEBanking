@@ -20,4 +20,7 @@ uncheck basic auth, check no verify ssl, check active - permission denied
 
 changing deb/deb in github to clm/passw0rd - permissiondenied
 
-unchecking no verify ssl
+unchecking no verify ssl - permission denied
+
+basic auth checked, no verify unchecked - 
+
