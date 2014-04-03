@@ -14,4 +14,6 @@ configured Rational Team Concert via GitHub (settings > webhooks and services > 
 
 recieved a warning last time. toggled on no verify ssl and active option in configuring service. it did notice "defect 37" in commit message.
 
-same warning, but now "test hook" works on github project settings. attempting again...
+same warning, but now "test hook" works on github project settings. attempting again.
+
+uncheck basic auth, check no verify ssl, check active
